@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.env
+*.log
+logs/
+.DS_Store
+terraform/.terraform/
+*.tfstate
+*.tfstate.*
